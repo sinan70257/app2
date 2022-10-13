@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
         backgroundColor: Color.fromARGB(255, 255, 255, 255),
         appBar: AppBar(
-          backgroundColor: Color.fromARGB(255, 0, 209, 17),
+          backgroundColor: Color.fromARGB(255, 255, 0, 183),
           title: const Text("Tally counter"),
         ),
         body: Padding(
